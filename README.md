@@ -12,6 +12,7 @@ This repository is a curated list of high-quality websites, creative tools, and 
 
 ### 🚀 Featured Site
 - **[Programmer Tools](https://zxhygq.com)** - A comprehensive toolbox for developers, providing various online utility tools to enhance efficiency.
+- **[Concrete Calculator Hub](https://concreteestimatorhub.com/)** - Free online concrete calculator suite for bag coverage, volume, cost, and ready-mix vs bags planning.
 
 ### ✍️ How to Contribute
 We welcome all high-quality websites! To add your site:
