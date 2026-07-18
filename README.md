@@ -46,6 +46,7 @@ We welcome all high-quality websites! To add your site:
 | Website Name / 网站名称 | Category / 分类 | Description / 描述 |
 | :--- | :--- | :--- |
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
+| [Toolknit](https://toolknit.com) | Online Tools | Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, and more. No signup, no uploads. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
