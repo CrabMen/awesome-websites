@@ -52,3 +52,5 @@ We welcome all high-quality websites! To add your site:
 
 ## License
 MIT License. Feel free to use and share!
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
