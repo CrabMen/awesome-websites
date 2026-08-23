@@ -52,7 +52,14 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
-| [Your Website Name] | Category | Your brief description here. |
+| [Codex Theme Builder](https://codextheme.tools) | Developer Tools | Build and customize color themes for OpenAI Codex terminals. |
+| [SkyCOTL Tools](https://skycotl.tools) | Games | Free web helpers for Sky: Children of the Light, including seasonal events and candle trackers. |
+| [Pressure Washer Fix](https://pressurewasherfix.com) | Home & DIY | Diagnose and repair common pressure washer problems with step-by-step guides. |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | Everyday Tools | Instant estimates for mowing, edging, and seasonal lawn care. |
+| [WattsCalc](https://wattscalc.com) | Everyday Tools | Free conduit-bending and electrical calculators for electricians. |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | Everyday Tools | Quote custom embroidery jobs by stitch count and garment type. |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | Design | Convert any image into a printable crochet chart. |
+| [WorkroomCalc](https://workroomcalc.co.uk) | Home & DIY | Free Roman blind calculator for fabric, lining, rods, and cord estimates. |
 
 ---
 
