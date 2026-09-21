@@ -50,6 +50,7 @@ We welcome all high-quality websites! To add your site:
 | Website Name / 网站名称 | Category / 分类 | Description / 描述 |
 | :--- | :--- | :--- |
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
+| [NextReset](https://nextreset.ai/) | AI Developer Resource | Source-linked Codex reset history, official AI service incidents, and a browser-local timer. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
 | [Your Website Name] | Category | Your brief description here. |
