@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [KupFollowersow.pl Growth Calculator](https://kupfollowersow.pl/tools/follower-growth) | Creator Tools | Polish browser calculator of required daily and weekly net follower gains. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
