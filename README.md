@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [QuietTake Noise Remover](https://noiseremover.site/) | Audio Tools | Free browser-local RNNoise speech cleanup, original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
