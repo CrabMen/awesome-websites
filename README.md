@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | 만화 번역 · 이미지 편집 | Ficory LLC의 기업급 만화 리더는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 스타일 편집기, 개인 작업 흐름의 API 연동과 제품이 지원하는 모든 번역 언어를 제공합니다. 제한된 무료 이용과 유료 요금제를 제공합니다. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
