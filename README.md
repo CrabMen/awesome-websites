@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) | SEO Tools | Free redirect map validator for a pasted old-to-new plan (up to 2,000 rows), flagging loops, chains and conflicts, for pre-launch checking only. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
