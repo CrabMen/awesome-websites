@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [Localcraft](https://tools.sweetai.work) | Online Tools | 112 free online tools that run in your browser — no uploads, no sign-up, no watermark. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
