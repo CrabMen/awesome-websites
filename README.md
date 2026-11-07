@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) | Creative Tools | Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
