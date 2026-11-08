@@ -53,6 +53,7 @@ We welcome all high-quality websites! To add your site:
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
 | [Your Website Name] | Category | Your brief description here. |
+| [Cursive Generation](https://cursive-generation.com/cursive-generator) | Design Tools | Free decorative cursive-font previews with plain-text copy; paid fonts and workbooks are separate. |
 
 ---
 
