@@ -52,6 +52,7 @@ We welcome all high-quality websites! To add your site:
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
 | [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
 | [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
+| [Daily Category Sprint](https://pufferparty.org/categories-game/) | Word Games | Free 45-second English vocabulary challenge. Enter distinct answers for the day’s category. / 每日 45 秒英文词语接龙，无需注册。 |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
